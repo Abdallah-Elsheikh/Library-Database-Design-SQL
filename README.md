@@ -9,7 +9,7 @@ This repository contains the SQL schema, sequences, and documentation for a rela
 * **Tracking System:** capable of tracking book availability, student borrowing history, and due dates.
 
 ## 📂 Database Schema (ERD Logic)
-![Entity Relationship Diagram](ERD_For_Library.pdf) *Note: You can attach the image export of your PDF here.*
+![Library Database ERD](library_erd.png)
 
 The database follows a logical flow to manage book circulation:
 1.  **Metadata Tables:** `Author` and `Category` classify the books.
